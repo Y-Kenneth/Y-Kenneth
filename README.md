@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yakhe kenneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakhe kenneth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yakhe-kenneth-sugiharto-771971286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakhe kenneth" height="30" width="40" /></a>
 <a href="https://instagram.com/yakhe_kenneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakhe_kenneth" height="30" width="40" /></a>
 </p>
 
