@@ -1,7 +1,7 @@
 # 👋 Hi There! I'm Yakhe Kenneth Sugiharto
 
 I'm currently pursuing a Computer Science Dual Degree at **Atmajaya University Indonesia** and **Nanjing Xiaozhuang University China**. 
-I have some experiences on Data Structures and Object-Oriented Programming during my times learning C and Java. Right now, I'm currently focusing on learning **JavaScript** and **Solidity** because of my interest at **Blockchain or SmartContract Development**, and other **Web3** technologies. 
+I have some experiences on **Data Structures** and **Object-Oriented Programming** during my times learning **C** and **Java**. Right now, I'm currently focusing on learning **JavaScript** and **Solidity** because of my interest at **Blockchain or SmartContract Development**, and other **Web3** technologies. 
 
 ## 🛠️ Tech Stack
 
