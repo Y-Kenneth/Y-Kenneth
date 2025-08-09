@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kenneth</h1>
-<h3 align="center">A Software Engineer enthusiast from Indonesia</h3>
+# 👋 Hi There! I'm Yakhe Kenneth Sugiharto
 
-- ⚡ Fun fact **I love drinking coffee**
+I'm currently pursuing a Computer Science Dual Degree at **Atmajaya University Indonesia** and **Nanjing Xiaozhuang University China**. 
+Right now, I can code in **Java** and **C**, while currently learning **JavaScript** and **Solidity** because of my interest at **Blockchain & SmartContract Development**, and other **Web3** technologies. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yakhe-kenneth-sugiharto-771971286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakhe kenneth" height="30" width="40" /></a>
-<a href="https://instagram.com/yakhe_kenneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakhe_kenneth" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Currently Exploring**  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Y-Kenneth&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Kenneth&layout=compact&theme=radical" height="165">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+---
+
+## 📈 Activity Graph
+[![Kenneth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Y-Kenneth&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🎯 Fun Fact
+> "A good day starts with coffee ☕ ... and ends with learning something new 🌍"
+
+---
