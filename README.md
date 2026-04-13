@@ -30,8 +30,8 @@ I enjoy building across the full stack — from mobile apps and web interfaces t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y-Kenneth&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Kenneth&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="165">
+  <img src="https://streak-stats.demolab.com?user=Y-Kenneth&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Kenneth&layout=compact&theme=radical&hide_border=true" height="165">
 </p>
 
 ---
@@ -53,7 +53,7 @@ I enjoy building across the full stack — from mobile apps and web interfaces t
 ## 🙋 Visitors
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Y-Kenneth/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Y-Kenneth&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
